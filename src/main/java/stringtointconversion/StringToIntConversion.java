@@ -1,6 +1,6 @@
 package stringtointconversion;
 
-// Examples of String to Integer conversion
+// This program converts a String to an Integer
 
 public class StringToIntConversion {
 

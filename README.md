@@ -4,4 +4,4 @@
 # Algorithms
 
 ### Description
-A selection of algorithms written in Java which solve various software engineering tasks.
+A selection of classic algorithms written in Java which solve various software engineering tasks.

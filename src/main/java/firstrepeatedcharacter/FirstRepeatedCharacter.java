@@ -1,6 +1,6 @@
 package firstrepeatedcharacter;
 
-// A Java program which finds the first repeated character in a String
+// This program finds the first repeated character in a String
 
 public class FirstRepeatedCharacter {
 
@@ -9,7 +9,7 @@ public class FirstRepeatedCharacter {
         String str = "Here we are now, entertain us";
         int index = findFirstRepeated(str);
         if(index != -1) {
-            System.out.println("First repeated character " + str.charAt(index) + " found at index " + index);
+            System.out.println("First repeated character '" + str.charAt(index) + "' found at index " + index);
         } else {
             System.out.println("No repeated character found");
         }
