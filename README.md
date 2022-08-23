@@ -43,26 +43,6 @@ A selection of highly rated algorithms that every programmer should be familiar 
 
 <br/>
 
-**System Design Algorithms**
-
-I anticipate this repo to be fairly dynamic in which it grows when I find and add cool new algorithm stuff as and when I find it. The following algos 
-are taken from [ByteByteGo](https://blog.bytebytego.com/p/algorithms-you-should-know-before?triedSigningIn=true) and focus on
-cool **system design** concepts:
-- Geohash
-- Quadtree
-- Consistent Hashing
-- Leaky Bucket
-- Token Bucket
-- Trie
-- Rsync
-- Raft/Paxos
-- Bloomfilter
-- Merkle Tree
-- HyperLogLog
-- Count-min Sketch
-- Hierarchical Timing Wheels
-- Operational Transform
-
 <br/>
 
 #### Acknowledgements
